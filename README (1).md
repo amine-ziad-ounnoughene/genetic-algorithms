@@ -37,7 +37,7 @@ generate()
        [1, 0, 0, 0, 1]])
 ```
 
-![20211227_144256_0000.png](Intro%20to%20genetic%20algorithms%20with%20python%206125c436b0354c378f864b46c30b4cdc/20211227_144256_0000.png)
+![20211227_144256_0000.png](20211227_144256_0000.png)
 
 # the fitness function
 
@@ -93,7 +93,7 @@ In the k-point crossover method, k-crossover points on the chromosomes of both p
 the following diagram demonstrates a two-point crossover 
 chromosomes, with the first crossover point located between the third and fourth gene and the other between the seventh and eighth genes:
 
-![Untitled](Intro%20to%20genetic%20algorithms%20with%20python%206125c436b0354c378f864b46c30b4cdc/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 [source](https://commons.wikimedia.org/wiki/File:Computational.science.Genetic.algorithm.Crossover.Two.Point.svg) 
 
@@ -144,7 +144,7 @@ crossover(generate())
        [0, 0, 1, 1, 1]])
 ```
 
-![IMG_20211227_144351.jpg](Intro%20to%20genetic%20algorithms%20with%20python%206125c436b0354c378f864b46c30b4cdc/IMG_20211227_144351.jpg)
+![IMG_20211227_144351.jpg](IMG_20211227_144351.jpg)
 
 after finishing these steps we repeat this process of natural selection to create new generation until we reach the best solution or we reach a specified number of generations 
 
